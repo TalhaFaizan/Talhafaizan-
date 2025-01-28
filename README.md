@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm khawaja-affan</h1>
+<h1 align="center">Hi 👋, I'm Talha-Faizan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Web Development**
